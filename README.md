@@ -3,7 +3,6 @@
 * Type 1
     * Type 1.a
 
-[Google](link would be google)
+[Google](www.google.com)
 `Comment`
 > Comment 2
-(Comment 3)
