@@ -5,6 +5,7 @@
 
 [Google](http://www.google.com)
 
+`kan the man`
 `Comment`
 
 > Comment 2
