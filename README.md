@@ -3,7 +3,7 @@
 * Type 1
     * Type 1.a
 
-[Google](https://www.google.com)
+[Google](http://www.google.com)
 
 `Comment`
 
